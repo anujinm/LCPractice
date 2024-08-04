@@ -1,0 +1,33 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore temporary files
+*.log
+*.swp
+*.tmp
+
+# Ignore IDE-specific files
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# Ignore ASP.NET temporary files
+*.dmp
+*.pdb
+*.cache
+*.config
+*.vscode/
