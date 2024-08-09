@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace Problems
 {
-    public class TestNumberOfDiceRollsWithTargetSum1155
+    public class NumberOfDiceRollsWithTargetSum1155
     {
         public int NumRollsToTarget(int n, int k, int target) 
         {

@@ -7,7 +7,7 @@ public class NumberOfDiceRollsWithTargetSumTest
     public void TestNumberOfDiceRollsWithTargetSum()
     {
         // Arrange
-        var problem = new TestNumberOfDiceRollsWithTargetSum1155();
+        var problem = new NumberOfDiceRollsWithTargetSum1155();
         
         // Act
         var result1 = problem.NumRollsToTarget(1,6,3);
